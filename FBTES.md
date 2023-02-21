@@ -1,5 +1,5 @@
-# FEBRUARY-TES
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
 https://nxanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd

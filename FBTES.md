@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://a.ivstracker.net/prod/getvast.xml"url-tvg="https://a.ivstracker.net/prod/getvast.xml"
+#EXTM3U url-tvg="https://macan.live/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.live/xmltv.php?username=epg&password=epg"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

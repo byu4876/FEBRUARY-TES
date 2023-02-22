@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.ksa.my.id/ksa.xml" url-tvg="https://epg.ksa.my.id/ksa.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url=http://epg.it999.ru/pp.xml.gz Источник: https://gogosmart.pro/id/texnologii/iptv/electronic-program-guide-2022-2023.html
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

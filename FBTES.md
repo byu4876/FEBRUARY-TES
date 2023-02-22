@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://dusktill.masuk.web.id/epg.xml" x-tvg-url="http://dusktill.masuk.web.id/epg.xml"
+#EXTM3U url-tvg="https://a.ivstracker.net/prod/getvastxml?spid=3001616&pageurl=https://www.visionplus.id/watch/channel/3/gtv%253Fcnumb%253D3&iabcategoryid=1&country=ID&device=desktop"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

@@ -26,7 +26,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://cdn.okezone.com/underwood/revamp/2020/img/INews.png " group-title="National TV",iNewsTV
-https://nxanv-live-cdn.mncnow.id/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png " group-title="National TV", SCTV

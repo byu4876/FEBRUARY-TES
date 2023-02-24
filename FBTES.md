@@ -691,6 +691,8 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 
+#EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/BRI_Liga_1.svg/2036px-BRI_Liga_1.svg.png " group-title="BRI Liga Imdonesia", BRI LIGA 1
+http://golive.yn.lt/live/liga1/01.m3u8
 
 
 

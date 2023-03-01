@@ -115,6 +115,7 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png " group-title="National TV",TVRI
+https://github.com/byu4876/vidio/blob/main/20221009122034.mp4
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 

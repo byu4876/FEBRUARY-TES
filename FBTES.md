@@ -659,6 +659,20 @@ https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png " group-title="Sports",CHAMPION TV 1 HD
+http://103.167.167.5:8111/play/a01p/index.m3u8 
+
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png " group-title="Sports",CHAMPION TV 2 HD
+http://103.167.167.5:8111/play/a01q/index.m3u8 
+
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png " group-title="Sports",Bein Sports 1
+http://103.167.167.5:8111/play/a02m/index.m3u8
+
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png  " group-title="Sports",Bein Sports 3
+http://103.167.167.5:8111/play/a02n/index.m3u8 
+
+
+
 
 
 ****************************************************LIFESTYLE***********************************************************************************************

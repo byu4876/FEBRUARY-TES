@@ -671,28 +671,28 @@ http://103.167.167.5:8111/play/a02m/index.m3u8
 #EXTINF:0 tvg-id="Net..Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png  " group-title="Sports",Bein Sports 3
 http://103.167.167.5:8111/play/a02n/index.m3u8 
 
-#EXTINF:0 tvg-id="DAZN1BarHD.de"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DAZN_1_DE_logo.png " group-title="Olahraga",DAZN 1 DE
+#EXTINF:0 tvg-id="DAZN1BarHD.de"tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/DAZN_1_DE_logo.png " group-title="Sports ",DAZN 1 DE
 https://webudit.onlinewebtv.lol/lb/premium426/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZN 2 DE "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png " group-title="Olahraga",DAZN 2 DE
+#EXTINF:0 tvg-id="DAZN 2 DE "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png " group-title="Sports ",DAZN 2 DE
 https://webudit.onlinewebtv.lol/lb/premium427/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZN 1 España "tvg-logo="https://pelotalibre.com/img/logo-canal/dazn1es.png " group-title="Olahraga",DAZN 1 España
+#EXTINF:0 tvg-id="DAZN 1 España "tvg-logo="https://pelotalibre.com/img/logo-canal/dazn1es.png " group-title="Sports ",DAZN 1 España
 https://webudit.onlinewebtv.lol/lb/premium445/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZN 2 España "tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png " group-title="Olahraga",DAZN 2 España
+#EXTINF:0 tvg-id="DAZN 2 España "tvg-logo="https://img.sport-tv-guide.live/images/stations/a2511.png " group-title="Sports ",DAZN 2 España
 https://webudit.onlinewebtv.lol/lb/premium446/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZN 3 España "tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png " group-title="Olahraga",DAZN 3 España
+#EXTINF:0 tvg-id="DAZN 3 España "tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png " group-title="Sports ",DAZN 3 España
 https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZN 4 España "tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png " group-title="Olahraga",DAZN 4 España
+#EXTINF:0 tvg-id="DAZN 4 España "tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png " group-title="Sports ",DAZN 4 España
 https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-id="DAZNLaLiga.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png " group-title="Olahraga",DAZN La Liga
+#EXTINF:0 tvg-id="DAZNLaLiga.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png " group-title="Sports ",DAZN La Liga
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:0 tvg-id="DAZN_F1.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png "  group-title="Olahraga",DAZN F1
+#EXTINF:0 tvg-id="DAZN_F1.es"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/2560px-DAZN_F1_logo.svg.png "  group-title="Sports ",DAZN F1
 https://webudit.onlinewebtv.lol/lb/premium537/index.m3u8|referer=https://widevine.licenses4.me/
 
 

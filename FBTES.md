@@ -34,7 +34,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
-https://etslive-2-vidio-com.akamaized.net/exp=1678625065~acl=/vp9/11524_stream.mpd!/vp9/11524/*!/vp9/*/11524_stream.mpd!/vp9/*/11524/*~hmac=06a33335c3d0983d8002f98ba0caff25a23afbc2a4beb81dcd34efb21a7e1a3b/vp9/11524_stream.mpd
+hhttp://golive.yn.lt/live/volleyball/01.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8
 
 https://geocities.ws/ariev7xx/moji.m3u8

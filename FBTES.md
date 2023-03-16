@@ -31,7 +31,7 @@ https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
-http://103.167.167.5:8111/play/a00r/index.mpd
+http://103.167.167.5:8111/play/a00r/index.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR HD
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8

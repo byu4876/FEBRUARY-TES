@@ -37,12 +37,9 @@ http://103.167.167.5:8111/play/a00r/index.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="National TV",moji
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/206.m3u8
-http://mpwtv.my.id/vidioye/206-moji.m3u8
-http://golive.yn.lt/live/volleyball/01.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8
 
-https://geocities.ws/ariev7xx/moji.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

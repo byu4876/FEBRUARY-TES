@@ -28,6 +28,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png " group-title="National TV", SCTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 

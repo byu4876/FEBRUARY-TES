@@ -33,8 +33,6 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
-http://insverpro.my.id/play.m3u8?id=205&key=vidio&type=hls
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
 http://103.167.167.5:8111/play/a00r/index.m3u8
 

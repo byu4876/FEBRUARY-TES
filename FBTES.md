@@ -1,5 +1,15 @@
 #EXTM3U x-tvg-url="https://upload.wikimedia.org" url-tvg="https://upload.wikimedia.org" refresh="1440" max-conn="1" refresh="24"
 
+
+
+
+#EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423 " group-title="LIVE EVENT", BRI LIGA SERVER 1
+http://103.167.167.5:8111/play/a00r/index.m3u8
+
+#EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423 " group-title="LIVE EVENT", BRI LIGA SERVER 2
+https://hls3.04lv.com/live/L14767990.m3u8?txSecret=a7ceddb3ede3326c4bce13471be18fc0&txTime=642813D9&_s=stream
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE

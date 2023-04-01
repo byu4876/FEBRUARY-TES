@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://upload.wikimedia.org" url-tvg="https://upload.wikimedia.org" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:0 tvg-id="INFO.Id" tvg-logo="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.18169-9/12191004_857726744334684_884606741914113984_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHeLa3clxPgOWXNpcG3zpzZsGNNe_ktG5ywY017-S0bnPrhnUq3QGKeCEZ1Ux2-LAAShtRXldR1KuFP_W7WKHwa&_nc_ohc=YrQoVG4_CGgAX_p7evt&_nc_ht=scontent-cgk1-1.xx&oh=00_AfAWI8RSOjBngxAutTaOCmtm7iYNweI64jPuhHQYI-Fj3A&oe=644FA19C " group-title="National TV ", INFO
+#EXTINF:0 tvg-id="INFO.Id" tvg-logo="https://scontent-cgk1-1.xx.fbcdn.net/v/t1.18169-9/12191004_857726744334684_884606741914113984_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHeLa3clxPgOWXNpcG3zpzZsGNNe_ktG5ywY017-S0bnPrhnUq3QGKeCEZ1Ux2-LAAShtRXldR1KuFP_W7WKHwa&_nc_ohc=YrQoVG4_CGgAX_p7evt&_nc_ht=scontent-cgk1-1.xx&oh=00_AfAWI8RSOjBngxAutTaOCmtm7iYNweI64jPuhHQYI-Fj3A&oe=644FA19C" group-title="National TV ", INFO
 
 
 #EXTINF:0 tvg-id="BRI LIGA 1.Id" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423 " group-title="LIVE EVENT", BRI LIGA SERVER 1
@@ -43,7 +43,7 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/204.m3u8
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png " group-title="National TV", INDOSIAR
-http://mpwtv.my.id/vidioye/206-moji.m3u8
+http://mpwtv.my.id/vidioye/205-moji.m3u8
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/205.m3u8
 http://103.167.167.5:8111/play/a00r/index.m3u8
 

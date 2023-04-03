@@ -11,7 +11,7 @@ YANG DI SALIN KE URL BUKAN ISINYA YA ??
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
 #EXTINF:0 tvg-id="IMBIZ TV" tvg-logo="https://cdn6.aptoide.com/imgs/7/5/e/75ef5d9fe7c81501d3ae4246b124c5e8_fgraphic.jpg" group-title="National TV ",IMBIZ TV
-https://live-production.secureswiftcontent.com/exp=1680455970~acl=/hls-p/ingest_7619_*/*~hmac=53debd9702d17cb8c58195f0f66a499ed18224da21317e7247a55c00a8b9e2f7/hls-p/ingest_7619_360p/index.m3u8
+https://rr3---sn-2ugxh5a5-jb3z.googlevideo.com/videoplayback?expire=1680542810&ei=-rcqZKi0JaPu3LUPz4uRoAY&ip=101.255.151.225&id=dQcOrTjIy6Y.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=eG&mm=44%2C29&mn=sn-2ugxh5a5-jb3z%2Csn-npoeeney&ms=lva%2Crdu&mv=m&mvi=3&pl=24&gcr=id&initcwndbps=338750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=IPS-Nwnr-rBBMnwmJZNo54sM&gir=yes&mt=1680520839&fvip=3&keepalive=yes&fexp=24007246&c=MWEB&n=oH7R-i6vfcjw2A&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgB8_KvbRiVvHDoAeFQUc95rBB2J0_Ff6rNo0V1N0ig6cCIH7eLabi-KtpEWq8ZGCGwZ1Kfvx-JeAThuSlJPuT3b-n&alr=yes&sig=AOq0QJ8wRQIhAKqJD2W-e4FrGTsfEuQId_tpWErebot2wDy2QB_ksXcEAiBngYAuvpmO72nFtv60DZGjlIUCf-NaNE9-88BoKbVhWA%3D%3D&cpn=4pLzmgBy9O51Iovb&cver=2.20230331.01.00&sq=21589&rn=86&rbuf=10790
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -17,7 +17,7 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="TVOne.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TvOne_Logo%282012%29.svg/2560px-TvOne_Logo%282012%29.svg.png " group-title="National TV",TVONE
-http://202.147.204.118/live/eds/DG/sa_dash_vmx/DG.mpd
+http://202.147.204.118/live/eds/DuniaGamesTV/sa_dash_vmx/DuniaGamesTV.mpd
 https://anevia114.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 

@@ -115,6 +115,10 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #EXTINF:-1 tvg-id="jitv " tvg-logo="https://jitv.jogjaprov.go.id/images/logo_jogja_tv.png " group-title="Lokal",jitv
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png  " group-title="Lokal",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png " group-title="Lokal ",Magna Channel 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_sleng.m3u8

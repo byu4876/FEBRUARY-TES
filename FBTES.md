@@ -707,7 +707,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd|referer=https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 
-#EXTINF:0 tvg-id="2170018573" tvg-logo=logo_url="https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423","name":"Live Event 1 1
+#EXTINF:0 tvg-id="2170018573" tvg-logo=logo_url="https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423"group-title="LIVE EVENT "Live Event 1 1
 #EXTVLCOPT:referer":"https://widevine.licenses4.me/\u0026User-agent\u003dREDLINECLIENT
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 

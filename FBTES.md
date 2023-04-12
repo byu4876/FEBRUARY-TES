@@ -703,8 +703,10 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 group-title="LIVE EVENT " tvg-logo=" https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423",LIVE EVENT
-#EXTVLCOPT:user-agent-Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="LIVE EVENT " tvg-logo=" https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423 " group-title="LIVE EVENT ",LIVE EVENT 11
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd
 
 #EXTINF:0 tvg-id="2170018573" tvg-logo=logo_url="https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423"group-title="LIVE EVENT "Live Event 1 1

@@ -35,6 +35,8 @@ http://202.147.204.118/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
 #EXTINF:0 tvg-id="SCTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/sctv.png " group-title="Lokal ",SCTV
+http://tvnid.x10.mx/1/master-1.m3u8
+
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 
@@ -45,7 +47,6 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
 http://tvnid.x10.mx/1/master-2.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8
-https://geocities.ws/ariev7xx/moji.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

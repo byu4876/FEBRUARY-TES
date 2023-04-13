@@ -703,7 +703,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 group-title="2170018573 " tvg-logo="https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423 ",Live Event 1
+#EXTINF:-1 group-title="LIVE " tvg-logo="https://asset.indosport.com/article/image/q/80/234623/untitled_3-169.jpg?w=750&h=423 ",Live Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://production-drm-vidio-com-event-7.akamaized.net/out/v1/fb3777ee16104dcd8722bb42560cef6f/index.mpd|Referer=https://widevine.licenses4.me/
 

@@ -45,6 +45,7 @@ http://tvnid.x10.mx/1/master.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
+https://cdn3-reg2.mm.oxygen.id/oxygenplay/moji/20230414125311.ts
 https://beetv.my.id/x/oxygen-moji-gojokkk.m3u8
 http://tvnid.x10.mx/1/master-2.m3u8
 http://mpwtv.my.id/vidioye/206-moji.m3u8

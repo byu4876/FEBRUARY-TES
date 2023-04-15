@@ -39,6 +39,7 @@ http://tvnid.x10.mx/1/master-1.m3u8
 
 
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
+https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe251b8cbf412cf05603
 http://tvnid.x10.mx/1/master.m3u8
 
 

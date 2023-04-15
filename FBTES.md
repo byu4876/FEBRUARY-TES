@@ -644,9 +644,11 @@ http://202.147.204.118/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-id="FightSports.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/fight-sport.png " group-title="Sports",Fight Sports
 http://202.147.204.118/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-
-#EXTINF:0 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png"group-title="Sports ",TVRI SPORT HD 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="TVRI SPORT HD.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Sports ",TVRI SPORT HD 
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
 
 #EXTINF:0 tvg-country="AR" tvg-logo=" https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/dubaisports-logo.jpg" group-title="Sports",DUBAI SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8

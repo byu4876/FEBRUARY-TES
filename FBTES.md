@@ -188,6 +188,10 @@ http://202.147.204.118/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
 ***********************************************Entertainment**********************************************************************************
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTINF:0 tvg-id="TV 5.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1280px-TV5_%28logo%29.svg.png " group-title="Entertainment",TV 5
+http://202.147.204.118/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj

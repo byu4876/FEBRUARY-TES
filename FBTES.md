@@ -705,7 +705,12 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="3. Sports",BEIN SPORTS 1 DZN
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
+#EXTINF:0 tvg-id="ext" group-title="3. Sports",BEIN SPORTS 2 DZN
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
+#EXTINF:0 tvg-id="ext" group-title="3. Sports",BEIN SPORTS 3 DZN
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
 
 
 

@@ -45,6 +45,7 @@ http://tvnid.x10.mx/1/master.m3u8
 
 
 #EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 http://tvnid.x10.mx/1/master-2.m3u8
 
 

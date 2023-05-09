@@ -712,9 +712,7 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF:0 tv-id="DAZN.Id" tvg-logo=" " group-title="Sports",DAZN
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/1/audio_128kbps/init.cmfa
 
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/1/video_2300kbps/init.cmfv
 
 
 

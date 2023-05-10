@@ -702,16 +702,6 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/241px-Dazn-logo.png",DAZN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-
-
-
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-
 
 
 

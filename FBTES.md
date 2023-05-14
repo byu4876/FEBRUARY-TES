@@ -132,6 +132,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w429200424_b3884000_s
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/tvri-1.png " group-title="Lokal",TVRI
+http://149.102.226.2:14134/live/cyx-F11D236E4378ba5dC26A13AF4103.ts?delay=22
+
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 

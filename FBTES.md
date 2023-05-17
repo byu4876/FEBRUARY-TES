@@ -41,6 +41,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
+https://raw.githubusercontent.com/byu4876/PRIBADI/main/indosiar.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -325,9 +325,22 @@ http://202.147.204.118/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 ********************************************Movies*************************************************************************************
 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
+#EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
+
+
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 

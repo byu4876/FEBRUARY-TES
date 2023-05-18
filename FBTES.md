@@ -328,7 +328,7 @@ http://202.147.204.118/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
-http://cyxcoundmag.lig1cfhw.xyz/live/cyx-77A5D9654951a0fc826015EC4D3A/cyx-77A5D9654951a0fc826015EC4D3A_shisui_62732850-5.ts
+http://208.115.225.174:14136
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/

@@ -323,7 +323,8 @@ http://202.147.204.118/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 #EXTINF:0 tvg-id="Rakuten " tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/3000.m3u8
+https://raw.githubusercontent.com/byu4876/PRIBADI/main/rakkutentv
+
 
 #EXTINF:0 tvg-id="Rakuten comedy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/3000.m3u8

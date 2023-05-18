@@ -327,13 +327,14 @@ https://raw.githubusercontent.com/byu4876/PRIBADI/main/rakkutentv.m3u8
 
 
 #EXTINF:0 tvg-id="Rakuten comedy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten comedy
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/3000.m3u8
+https://raw.githubusercontent.com/byu4876/PRIBADI/main/rekuten%20comedy.m3u8
+
 
 #EXTINF:0 tvg-id="Rakuten Action" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Action
-https://rakuten-actionmovies-7-fr.plex.wurl.tv/4300.m3u8
+https://raw.githubusercontent.com/byu4876/PRIBADI/main/rekuten%20action.m3u8
 
 #EXTINF:0 tvg-id="Rakuten Italy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Italy
-https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
+https://raw.githubusercontent.com/byu4876/PRIBADI/main/rekuten%20itali.m3u8
 
 
 

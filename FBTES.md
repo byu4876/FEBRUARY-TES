@@ -320,6 +320,22 @@ http://202.147.204.118/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 
 ********************************************Movies*************************************************************************************
+
+
+#EXTINF:0 tvg-id="Rakuten " tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:0 tvg-id="Rakuten comedy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten comedy
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:0 tvg-id="Rakuten Action" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Action
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/4300.m3u8
+
+#EXTINF:0 tvg-id="Rakuten Italy" tvg-logo="https://basevik.fra1.digitaloceanspaces.com/uploads/2023/3/25/085_25032023_071800.jpg" group-title="Movies",Rakuten Italy
+https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="WarnerTV.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/warner.png " group-title="Movies",Warner TV

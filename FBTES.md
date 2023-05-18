@@ -351,6 +351,8 @@ http://208.115.225.174:14136
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:0 tvg-id="HBOFamily.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO-Family.png" group-title="Movies",HBO Family
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

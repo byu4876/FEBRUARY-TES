@@ -360,6 +360,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 #EXTINF:-1 tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/HBO.png " tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
+
 https://astro.kutubusuk.workers.dev/dash-wv/linear/2304/default_ott.mpd
 
 http://208.115.225.174:14136

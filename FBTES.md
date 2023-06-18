@@ -435,14 +435,12 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://bgtv.site:
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Firefox
+#KODIPROP:inputstream.adaptive.license_key=https://servicebuss.transvision.co.id/tvs/login/external?email=itcore.master_st2@trv.co.id&password=MTIzNDU2Nzg=&deviceId=1234567890&deviceType=A&deviceModel=A21&deviceToken=&serial=&platformId=4028c68574537fcd0174af6756a94288
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
-https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 http://208.115.225.174:14136
 http://5.255.90.238:5002/play/a014/index.m3u8
 

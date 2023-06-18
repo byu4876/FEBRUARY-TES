@@ -437,8 +437,8 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://www.google-analytics.com/j/collect?v=1&_v=j100&a=2109300775&t=pageview&_s=1&dl=https%3A%2F%2Fwww.cubmu.com%2Fplay%2Flive-tv%3Fid%3D4028c68574537fcd0174be43042758d8%26genreId%3D10&ul=id-id&de=UTF-8&dt=Channel%20%7C%20Trans%20TV%20%7C%20CubMu&sd=24-bit&sr=1280x720&vp=1263x577&je=0&_u=QACAAUABAAAAACAAI~&jid=&gjid=&cid=123537368.1686808563&tid=UA-225238350-1&_gid=2060198276.1687051588&_slc=1>m=45He36e0n81MTS3HDP&z=1622618995
+#KODIPROP:inputstream.adaptive.license_type=https://lic.drmtoday.com/license-proxy-widevine/cenc/
+#KODIPROP:inputstream.adaptive.license_key=https://servicebuss.transvision.co.id/tvs/login/external?email=itcore.master_st2@trv.co.id&password=MTIzNDU2Nzg=&deviceId=1234567890&deviceType=A&deviceModel=A21&deviceToken=&serial=&platformId=4028c68574537fcd0174af6756a94288
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="Movies",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 http://208.115.225.174:14136

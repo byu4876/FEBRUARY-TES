@@ -457,7 +457,6 @@ https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://deerem-cubmu.pl-12537iptv.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png " tvg-name="HBO" group-title="Movies",HBO
-https://res.host.iptvfreemium.com/restreams/hbo/seg-20230702-085930-51861-00387280-0000001920000.js
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 http://hidra.live:80/usvhppwq/4C3D7fuen2/302664
@@ -478,6 +477,8 @@ https://rakuten-actionmovies-7-fr.plex.wurl.tv/4300.m3u8
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",K+
+https://res.host.iptvfreemium.com/restreams/hbo/seg-20230702-085930-51861-00387280-0000001920000.js
+
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
 

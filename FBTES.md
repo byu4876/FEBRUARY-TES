@@ -477,8 +477,6 @@ https://rakuten-actionmovies-7-fr.plex.wurl.tv/4300.m3u8
 https://rakuten-actionmovies-6-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:0 tvg-id="K +" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353381-.png" group-title="Movies",K+
-https://res.host.iptvfreemium.com/restreams/hbo/seg-20230702-085930-51861-00387280-0000001920000.js
-
 http://210.210.155.35/session/dc04a98e-793d-11ed-991d-c81f66f89318/uq2663/h/h08/index.m3u8
 
 

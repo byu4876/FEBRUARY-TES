@@ -41,8 +41,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
-#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji
-https://github.com/mimipipi22/nontontv/raw/main/FMX/moji.m3u8
+#EXTINF:0 tvg-id="moji.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Lokal ",moji 
 https://thefirefox12537.github.io/streams/moji_playback.m3u8
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 

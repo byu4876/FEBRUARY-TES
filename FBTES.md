@@ -805,7 +805,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 
 
- #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/9FJknMK.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
 https://youdooball.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 

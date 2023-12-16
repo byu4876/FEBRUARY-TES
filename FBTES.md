@@ -166,9 +166,8 @@ https://bit.ly/3NrgCPP
 #EXTINF:0 tvg-id="Indosiar.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/indosiar-1.png " group-title="Lokal ",INDOSIAR  
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 group-title="Lokal"group-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png ",Moji TV
+#EXTINF:-1 tvg-id="MOJI.Id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png " group-title="Lokal ",MOJI
 http://myteve.online:8080/resplice/wdLIS4d9758INyuX/298550
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
